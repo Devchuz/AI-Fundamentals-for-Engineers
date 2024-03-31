@@ -25,25 +25,6 @@ To make the most out of this repository:
 3. Navigate to the `Data-sources` directory.
 4. Open the Jupyter notebooks in your preferred environment (e.g., JupyterLab, VSCode) to start exploring.
 
-## Contributing
-
-We warmly welcome contributions! If you have a dataset or a data-fetching technique that could benefit others, please consider contributing. Here's how:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
-For more detailed instructions, refer to [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## Getting Help
-
-If you encounter any issues or have questions, please:
-
-- Check the [Issues](https://github.com/Devchuz/AI-Fundamentals-for-Engineers/issues) tab to see if it's already reported.
-- If not, feel free to open a new issue providing as much detail as possible.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
