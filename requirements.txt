@@ -1,0 +1,6 @@
+ucimlrepo
+pandas
+matplotlib
+plotly
+searborn
+scikit-learn
