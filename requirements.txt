@@ -4,3 +4,4 @@ matplotlib
 plotly
 searborn
 scikit-learn
+statsmodels
